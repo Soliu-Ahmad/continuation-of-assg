@@ -1,0 +1,31 @@
+*,
+*::before,
+*::after {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    text-align: center;
+    font-size: 1.6rem;
+    background: rgba(189, 143, 143, 0.813);
+    padding: 9rem;
+}
+
+.header {
+    padding: 2rem;
+    text-align: center;
+    margin: 0 auto;
+}
+
+img {
+    padding: 4rem;
+    width: 500px;
+    height: 500px;
+    border-radius: 50%;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -ms-border-radius: 50%;
+    -o-border-radius: 50%;
+}
