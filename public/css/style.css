@@ -29,3 +29,11 @@ img {
     -ms-border-radius: 50%;
     -o-border-radius: 50%;
 }
+
+.header {
+    color: chartreuse;
+}
+
+.footer {
+    color: red
+}
